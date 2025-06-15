@@ -6,6 +6,25 @@
 - 📫 **How to reach me:** sandhyasapate20@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
+## 🎓 Education
+
+- **CSMSS Chh shahu College of Engineering, Sambhajinagar (D-BATU university lonere)**
+  - Bachelor of Technology in Information Technology
+  - 2021–2025
+  - GPA: 7.9/10
+
+## 💼 Experience
+## Internship at DvijTech
+🔹 **Role:** Software Engineer  
+🔹 **Company:** [DvijTech](https://dvijtech.com/)  
+🔹 **Duration:** 7th April - Present  
+🔹 **Technologies:** React.js,Javascript, Node.js, Express, MYSQL, MongoDB,Postgress, API Development, Documentation  
+🔹 **Responsibilities:**
+  - Developing Frontend and Api integration
+  - Writing technical documentation
+  - Optimizing server-side logic and database queries
+  - Collaborating with frontend and DevOps teams
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandhya-sapate-b45899250)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandhyasapate20@gmail.com) 
