@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Sandhya Sapate
 **A passionate Software Engineer || Full-Stack developer from India**
 
-- 🔭 **I’m currently working in:** intern at Dvijtech Global Solution Private Limited Pune
+- 🔭 **I’m currently working in:** Intern at Dvijtech Global Solution Private Limited Pune
 - 🌱 **I’m currently learning:** React.js,Node.js ,express.js 
 - 📫 **How to reach me:** sandhyasapate20@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
@@ -9,7 +9,7 @@
 ## 🎓 Education
 
 - **CSMSS Chh shahu College of Engineering, Sambhajinagar (D-BATU university lonere)**
-  - Bachelor of Technology in Information Technology
+  - Bachelor of Technology in Computer Science  
   - 2021–2025
   - GPA: 7.9/10
 
